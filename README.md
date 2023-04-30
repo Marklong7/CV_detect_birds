@@ -3,7 +3,7 @@
 * Course website: https://courses.engr.illinois.edu/cs441/sp2023/
 ## Challenge:  
 * Topic: detect birds in drone data.
-* Basic infor: 
+* Basic infor: \
 In conjunction with MVA2023, we host the Small Object Detection Challenge for Spotting Birds. This challenge focuses on Small Object Detection (SOD)[5]. problem, which is categorized to the , proposed by S. Fujii, et al. [1]. In contrast to general detection, SOD has its own difficulties and thus is a hot topic in the Computer Vision community, as presented in the ECCV2020 workshop [2] and the ACCV2022 workshop [3] in recent years.
 
 This challenge not only raises academic issues in Computer Vision but also promotes practical technology developments that are expected to be employed in real-world applications. For example, distant-bird detection is an important function for unmanned aerial vehicles (UAVs) such as drones in order to avoid bird attacks and drive away harmful birds that destroy fields and rice paddies. Thus, this Challenge is in line with MVA's policy to build bridges between academia and industry.
