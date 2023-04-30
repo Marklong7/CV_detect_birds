@@ -18,7 +18,7 @@ What are your conclusions? What would you do differently next time?
 Cite sources of ideas and code, including websites/blogs/github pages and models.
 
 ## The People
-* Author: Jialong Li\
+* Author: Jialong Li
 * Instructor: Derek Hoiem
 
 
