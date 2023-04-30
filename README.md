@@ -6,7 +6,7 @@ detect birds in drone data.
 ## Models
 
 ## The People
-Author: Li,Jialong\
+Author: Jialong Li\
 Instructor: Derek Hoiem
 
 
