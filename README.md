@@ -13,9 +13,9 @@ The dataset is split into training/public test/private test sets.
   * Train:
    * Train1: Consists of 47,260 images with 60,971 annotated bird instances
    * Train2: Consists of 9,759 images with 29,037 annotated bird instances.
-  * Data format:
-   * Input: Image
-   * Annotation: COCO format     
+* Data format:
+  * Input: Image
+  * Annotation: COCO format     
 ### Baseline:
 https://github.com/IIM-TTIJ/MVA2023SmallObjectDetection4SpottingBirds
 ### Website: 
