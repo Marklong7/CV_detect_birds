@@ -1,4 +1,4 @@
-# CV_detect_birds
+# CVDetectBirds
 * This is the final project of **CS441** - Applied Machine Learning
 * Course website: https://courses.engr.illinois.edu/cs441/sp2023/
 ## Challenge:  
